@@ -4,7 +4,7 @@ Programmers algorithm training : https://programmers.co.kr/
 
 |no|title|Link|check|
 |--|------|---|---|
-|1|모의고사|https://programmers.co.kr/learn/courses/30/lessons/42840||
+|1|모의고사|https://programmers.co.kr/learn/courses/30/lessons/42840|O|
 |2|소수 찾기|https://programmers.co.kr/learn/courses/30/lessons/42839||
 |3|카펫|https://programmers.co.kr/learn/courses/30/lessons/42842||
 |4|체육복|https://programmers.co.kr/learn/courses/30/lessons/42862||
