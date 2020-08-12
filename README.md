@@ -17,4 +17,4 @@ Programmers algorithm training : https://programmers.co.kr/
 |11|네트워크|https://programmers.co.kr/learn/courses/30/lessons/43162|O|
 |12|단어 변환|https://programmers.co.kr/learn/courses/30/lessons/43163||
 |13|여행경로|https://programmers.co.kr/learn/courses/30/lessons/43164||
-|14|입국심사|https://programmers.co.kr/learn/courses/30/lessons/43238||
+|14|입국심사|https://programmers.co.kr/learn/courses/30/lessons/43238|O|
