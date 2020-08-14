@@ -18,3 +18,10 @@ Programmers algorithm training : https://programmers.co.kr/
 |12|단어 변환|https://programmers.co.kr/learn/courses/30/lessons/43163||
 |13|여행경로|https://programmers.co.kr/learn/courses/30/lessons/43164||
 |14|입국심사|https://programmers.co.kr/learn/courses/30/lessons/43238|O|
+|15|가장 먼 노드|https://programmers.co.kr/learn/courses/30/lessons/49189||
+|16|K번째수|https://programmers.co.kr/learn/courses/30/lessons/42748||
+|17|가장 큰 수|https://programmers.co.kr/learn/courses/30/lessons/42746||
+|18|H-Index|https://programmers.co.kr/learn/courses/30/lessons/42747||
+|19|기능개발|https://programmers.co.kr/learn/courses/30/lessons/42586||
+|20|다리를 지나는 트럭|https://programmers.co.kr/learn/courses/30/lessons/42583||
+|21|프린터|https://programmers.co.kr/learn/courses/30/lessons/42587||
