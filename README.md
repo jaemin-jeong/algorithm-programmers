@@ -24,4 +24,4 @@ Programmers algorithm training : https://programmers.co.kr/
 |18|H-Index|https://programmers.co.kr/learn/courses/30/lessons/42747||
 |19|기능개발|https://programmers.co.kr/learn/courses/30/lessons/42586||
 |20|다리를 지나는 트럭|https://programmers.co.kr/learn/courses/30/lessons/42583||
-|21|프린터|https://programmers.co.kr/learn/courses/30/lessons/42587||
+|21|프린터|https://programmers.co.kr/learn/courses/30/lessons/42587|O|
