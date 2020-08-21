@@ -25,3 +25,5 @@ Programmers algorithm training : https://programmers.co.kr/
 |19|기능개발|https://programmers.co.kr/learn/courses/30/lessons/42586||
 |20|다리를 지나는 트럭|https://programmers.co.kr/learn/courses/30/lessons/42583||
 |21|프린터|https://programmers.co.kr/learn/courses/30/lessons/42587|O|
+|22|멀쩡한 사각형|https://programmers.co.kr/learn/courses/30/lessons/62048||
+|23|가장 큰 정사각형 찾기|https://programmers.co.kr/learn/courses/30/lessons/12905||
