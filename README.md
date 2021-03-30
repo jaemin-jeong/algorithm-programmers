@@ -22,7 +22,7 @@ Programmers algorithm training : https://programmers.co.kr/
 |16|K번째수|https://programmers.co.kr/learn/courses/30/lessons/42748||
 |17|가장 큰 수|https://programmers.co.kr/learn/courses/30/lessons/42746||
 |18|H-Index|https://programmers.co.kr/learn/courses/30/lessons/42747|O|
-|19|기능개발|https://programmers.co.kr/learn/courses/30/lessons/42586||
+|19|기능개발|https://programmers.co.kr/learn/courses/30/lessons/42586|O|
 |20|다리를 지나는 트럭|https://programmers.co.kr/learn/courses/30/lessons/42583||
 |21|프린터|https://programmers.co.kr/learn/courses/30/lessons/42587|O|
 |22|멀쩡한 사각형|https://programmers.co.kr/learn/courses/30/lessons/62048||
