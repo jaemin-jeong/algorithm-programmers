@@ -8,7 +8,7 @@ Programmers algorithm training : https://programmers.co.kr/
 |2|소수 찾기|https://programmers.co.kr/learn/courses/30/lessons/42839|O|
 |3|카펫|https://programmers.co.kr/learn/courses/30/lessons/42842|O|
 |4|체육복|https://programmers.co.kr/learn/courses/30/lessons/42862|O|
-|5|큰 수 만들기|https://programmers.co.kr/learn/courses/30/lessons/42883||
+|5|큰 수 만들기|https://programmers.co.kr/learn/courses/30/lessons/42883|O|
 |6|조이스틱|https://programmers.co.kr/learn/courses/30/lessons/42860||
 |7|구명보트|https://programmers.co.kr/learn/courses/30/lessons/42885||
 |8|N으로 표현|https://programmers.co.kr/learn/courses/30/lessons/42895||
